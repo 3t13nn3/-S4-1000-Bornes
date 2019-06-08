@@ -5,7 +5,7 @@ The project aims to make us learn how we generaly code into a compagny with rest
 
 If you are a french speaker, I invite you to:
 
-- Check the [Report of this project](https://github.com/3t13nn3/-S4-1000-Bornes/tree/master/Rapport) for more details
+- Check the [Report of this project](https://github.com/3t13nn3/-S4-1000-Bornes/blob/master/Rapport/Rapport_R%C3%A9a.pdf) for more details
 
 - Use the ```Doxyfile``` with [Doxygen](http://www.doxygen.nl/) to get a complete documentation of the project (by the ```Doxygen``` command at the root of the project)
 
