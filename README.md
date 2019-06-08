@@ -1,5 +1,5 @@
 # -S4-1000-Bornes
-A university work by group with professionals restrictions like imposed syntax, test functions, macros and documentation. 
+A university group project with professionals restrictions like imposed syntax, test functions, macros and documentation. 
 This program is a terminal version of a famous french board game.
 The project aims to make us learn how we generaly code into a compagny with restrictions.
 
@@ -31,9 +31,9 @@ Clean object files and binary by ```make clean```.
 
 You can find instructions [here](https://www.fgbradleys.com/rules/Mille%20Bornes.pdf).
 
-Choose the numbers of player at the beginning (2-8 players), then the game start.
+Choose the numbers of player at the beginning (2-8 players), then the game starts.
 
-Each one his turn, every player will see his cards assigned by a number and can play them by entering the card number. 
+Each turn, each player will see his cards assigned by a number and can play them by entering the card number. 
 
 If the card selected is played on an other player, the game will ask you the number of the player to play on.
 
